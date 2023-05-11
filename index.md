@@ -4,7 +4,7 @@ This is my home page! My name is Sora Park and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/sorarosepark.] (http://github.com/sorarosepark)
+My GitHub page is [http://github.com/sorarosepark.](http://github.com/sorarosepark)
 
 ### CPSC 120
 
